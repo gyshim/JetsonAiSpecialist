@@ -68,11 +68,12 @@
 
   6. **모든 프레임에 라벨링을 한 후, 각 데이터 파일을 다운 받는다.**
 
-      6-1. `as Images..`: 각 프레임 이미지 저장[(.jpg)](train/images)
+      6-1. `as Images..`: 각 프레임 이미지 저장[(.png)](train/images)
      
       6-2. `GT Save As..`: 각 프레임 라벨 값 저장[(.txt)](train/labels)
 
      ![labelVideo](forReadMeFile/labelVideo.gif)
+     
         [원본 영상.avi](train/videos/20241115_175106_gt.avi)
 
 
@@ -85,7 +86,9 @@
 
 ### :small_orange_diamond:Nvidia Jetson Nano 학습 결과
 
-  - 학습 결과는 `/content/drive/MyDrive/yolov5/runs/train` [이 곳](runs/train)에 저장된다.
+  - 학습 결과는 `/content/drive/MyDrive/yolov5/runs/train`에 저장된다.
+
+  - 리포지토리 내에서는 [이 곳](runs/train)에서 확인할 수 있다.
 
 | **F1 Curve** | **PR Curve** |
 |--------------|--------------|
@@ -102,5 +105,6 @@
 
 ### :small_orange_diamond:Nvidia Jetson Nano 학습 결과 검증 영상
 
-     ![resultVideo](forReadMeFile/resultVideo.gif)
-        [원본 영상.mp4](runs/detect/exp6/20241115_112352.mp4)
+  ![resultVideo](forReadMeFile/resultVideo.gif)
+  
+  [원본 영상.mp4](runs/detect/exp6/20241115_112352.mp4)
