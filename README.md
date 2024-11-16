@@ -106,6 +106,6 @@
 ### :small_orange_diamond:Nvidia Jetson Nano 학습 결과 검증 영상
   - 비교적 어두운 곳과 밝은 곳, 정면과 측면 모두 정확히 감지하는 것을 알 수 있다.
 
-  ![resultVideo](forReadMeFile/resultVideo.gif)
+     ![resultVideo](forReadMeFile/resultVideo.gif)
   
-  [원본 영상.mp4](runs/detect/exp6/20241115_112352.mp4)
+     [원본 영상.mp4](runs/detect/exp6/20241115_112352.mp4)
