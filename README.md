@@ -5,7 +5,7 @@
 
 ### :small_blue_diamond:배경 정보 소개 (Opening Background Information)
 
-  - 화재 사고 발생 시 소화기를 빠르게 찾는 것은 초기 화재 진압의 핵심이다. 하지만 실제 상황에서 소화기를 빠르게 식별하는 것은 쉽지 않은 경우가 많다. 이를 해결하기 위해 머신러닝을 활용한 소화기 감지 기술은 안전성과 효율성을 크게 높일 수 있다. 예를 들어, 로봇이 소화기를 찾고, 주변 사람을 해당 위치로 유도하는 등의 방법을 통해 화재를 빠르게 진압할 수 있다.<br>
+  - 화재 사고 발생 시 소화기를 빠르게 찾는 것은 초기 화재 진압의 핵심이다. 하지만 실제 상황에서 소화기를 빠르게 식별하는 것은 쉽지 않은 경우가 많다. 이를 해결하기 위해 머신러닝을 활용한 소화기 감지 기술을 사용하면 안전성과 효율성을 크게 높일 수 있다. 예를 들어, 로봇이 소화기를 찾고, 주변 사람을 해당 위치로 유도하는 등의 방법을 통해 화재를 빠르게 진압할 수 있다.<br>
       <sub>In the event of a fire accident, quickly finding a fire extinguisher is the key to initial fire suppression. However, in real situations, it is often not easy to quickly identify a fire extinguisher. To solve this, fire extinguisher detection technology using machine learning can greatly improve safety and efficiency. For example, a robot can quickly extinguish a fire by finding a fire extinguisher and guiding nearby people to that location.</sub>
 
 ### :small_blue_diamond:프로젝트의 전반적인 설명 (General Description of the Current Project)
@@ -23,7 +23,7 @@
       <sub>**Shooting from multiple angles**: During initial model training, the accuracy was low with images shot only from similar angles, and the accuracy was greatly improved by utilizing data shot from various angles.</sub>
 
 
-  3. **화재 진압 기능이 없는 로봇에도 적용 가능**: 소화기 감지 모델을 화재 진압 기능이 없는 가정용 로봇에 탑재하여, 화재 발생 시 소화기 위치를 빠르게 찾고, 사람에게 알려주거나 해당 위치로 유도할 수 있다.<br>
+  3. **화재 진압 기능이 없는 로봇에도 적용 가능**: 소화기 감지 모델을 화재 진압 기능이 없는 가정용 로봇에 탑재하여, 화재 발생 시 소화기 위치를 빠르게 찾고 주변 사람에게 알려주거나 해당 위치로 유도할 수 있다.<br>
       <sub>**Can also be applied to robots without fire suppression functions**: By installing the fire extinguisher detection model on a home robot without a fire suppression function, the location of the fire extinguisher can be quickly found in the event of a fire, and the location can be notified to people or guided to the location.</sub>
 
 
