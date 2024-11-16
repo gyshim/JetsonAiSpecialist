@@ -40,7 +40,7 @@
      ![실제 촬영 영상](forReadMeFile/sourceVideo.gif)
 
 
-### :small_orange_diamond:학습 데이터 추출과 학습 어노테이션 (Learning Data Extraction and Learning Annotation):
+### :small_orange_diamond:학습 데이터 추출과 학습 어노테이션 (Learning Data Extraction and Learning Annotation)
 
   - 촬영된 영상을 프레임 단위 이미지로 만들거나 어노테이션을 하기 위해서 Video/Image Labeling and Annotation Tool로 잘 알려진 [DarkLabel](DarkLabel2.4)을 사용했다.
 
