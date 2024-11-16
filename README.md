@@ -95,7 +95,7 @@
       6-2. `GT Save As..`: 각 프레임의 [라벨 값](train/labels) 저장 <sub>Save the [label values](train/labels) for each frame(train/labels)</sub>
 
 
-        <sub>[원본 영상 바로가기<sub>Go to original video</sub>](train/videos/20241115_175106_gt.avi)</sub><br>
+        <sub>[원본 영상 바로가기 <sub>Go to original video</sub>](train/videos/20241115_175106_gt.avi)</sub><br>
      ![labelVideo](forReadMeFile/labelVideo.gif)
 
 
@@ -163,5 +163,5 @@
       <sub>It can be seen that detection is accurate in relatively dark and bright places, both front-facing and from the side.</sub>
 
 
-     <sub>[원본 영상 바로가기<sub>Go to original video</sub>](runs/detect/exp6/20241115_112352.mp4)</sub><br>
+     <sub>[원본 영상 바로가기 <sub>Go to original video</sub>](runs/detect/exp6/20241115_112352.mp4)</sub><br>
      ![resultVideo](forReadMeFile/resultVideo.gif)
