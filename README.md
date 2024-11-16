@@ -1,4 +1,4 @@
-# :fire_extinguisher:YOLOv5를 이용한 소화기 감지 모델<sub>Fire extinguisher detection model using YOLOv5</sub>
+# :fire_extinguisher:YOLOv5를 이용한 소화기 감지 모델<br><sub>Fire extinguisher detection model using YOLOv5</sub>
 
 ## :globe_with_meridians:프로젝트 개요 (Overview of the Project)
 
