@@ -84,15 +84,15 @@
   5. **위와 같이 설정하고 학습에 필요한 객체를 Box로 표시한다.**<br>
      <sub>**Set up as shown above and mark the objects required for training using boxes.**</sub>
 
-      5-1. `shift + right-click`: Delete box<br>
-      5-2. `shift + left-click`: Move box<br>
-      5-3. `space bar`: Move to the next frame
+      5-1. `shift + right-click`: 박스 삭제 <sub>Delete box</sub><br>
+      5-2. `shift + left-click`: 박스 이동 <sub>Move box</sub><br>
+      5-3. `space bar`: 다음 프레임으로 이동 <sub>Move to the next frame</sub>
 
   6. **모든 프레임에 라벨링을 한 후, 각 데이터 파일을 다운 받는다.**<br>
      <sub>**After labeling all frames, download each data file.**</sub>
      
-      6-1. `as Images..`: Save each frame as an image[(.png)](train/images)<br>
-      6-2. `GT Save As..`: Save the label values for each frame[(.txt)](train/labels)
+      6-1. `as Images..`: 각 프레임의 [이미지](train/images) 저장 <sub>Save each frame as an [image](train/images)</sub><br>
+      6-2. `GT Save As..`: 각 프레임의 [라벨 값](train/labels) 저장 <sub>Save the [label values](train/labels) for each frame(train/labels)</sub>
 
      ![labelVideo](forReadMeFile/labelVideo.gif)<br>
         <sub>[원본 영상.avi](train/videos/20241115_175106_gt.avi)</sub>
