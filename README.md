@@ -106,6 +106,35 @@
   - 상세 과정은 [여기](yolov5_ai_specialist.ipynb)에서 확인할 수 있다.<br>
       <sub>Detailed steps can be found [here](yolov5_ai_specialist.ipynb).</sub>
 
+  - 학습에 필요한 라이브러리<br>
+      <sub>Libraries required for learning</sub><br>
+     ```python
+     import torch
+     import os
+     from IPython.display import Image, clear_output  # to display images
+     ```
+
+  - 학습 스크립트<br>
+      <sub>Script for learning</sub><br>
+     ```python
+     !python train.py  --img 512 --batch 16 --epochs 300 --data /content/drive/MyDrive/yolov5/data.yaml --weights yolov5n.pt --cache
+     ```
+
+     - `--img 512`: 입력 이미지의 크기를  512*512로 설정한다.<br>
+     <sub>Set the size of the input image to 640x640.</sub>
+     
+     - `--batch 16`: 배치 크기를 설정한다. 한 번에 처리되는 이미지의 수를 나타낸다.<br>
+     <sub>Sets the batch size. This indicates the number of images to be processed at one time.</sub>
+     
+     - `--epochs 300`: 학습할 총 에폭(epoch) 수를 설정합니다.<br>
+     <sub>Sets the total number of epochs to learn.</sub>
+     
+     - `--data /content/drive/MyDrive/yolov5/data.yaml`: 데이터셋 및 모델 구성에 대한 설정이 담긴 [YAML](data.yaml) 파일의 경로를 지정한다.<br>
+     <sub>Specifies the path to the [YAML](data.yaml) file containing the configuration settings for the YOLOv5 model.</sub>
+     
+     - `--weights yolov5n.pt`: 미리 훈련된 가중치 파일의 경로를 지정한다. 여기서는 [yolov5n.pt](yolov5n.pt) 파일을 사용하고 있다.<br>
+     <sub>Specifies the path to the pre-trained weights file. Here, we are using the [yolov5n.pt](yolov5n.pt) file.</sub>
+
 
 ### :small_orange_diamond:Nvidia Jetson Nano 학습 결과 (Nvidia Jetson Nano Training Result)
 
