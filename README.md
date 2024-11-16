@@ -74,7 +74,7 @@
       <sub>Change line 66 to `classes_set: "my_classes2"`.</sub>
 
   3. **DarkLabel 프로그램을 실행한다.**<br>
-`    <sub>**Run the DarkLabel program.**</sub>
+     <sub>**Run the DarkLabel program.**</sub>
 
   4. **학습에 사용할 영상을 `Open Video`을 통해 가져온다.**<br>
      <sub>**Load the video for training via `Open Video`.**</sub>
