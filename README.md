@@ -107,7 +107,7 @@
       <sub>Detailed steps can be found [here](yolov5_ai_specialist.ipynb).</sub>
 
 
-### :small_orange_diamond:Nvidia Jetson Nano 학습 결과
+### :small_orange_diamond:Nvidia Jetson Nano 학습 결과 (Nvidia Jetson Nano Training Result)
 
   - 학습 결과는 `/content/drive/MyDrive/yolov5/runs/train`에 저장된다.<br>
       <sub>Training results are stored in `/content/drive/MyDrive/yolov5/runs/train`.</sub>
