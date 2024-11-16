@@ -95,7 +95,7 @@
       6-2. `GT Save As..`: Save the label values for each frame[(.txt)](train/labels)
 
      ![labelVideo](forReadMeFile/labelVideo.gif)<br>
-        </sub>[원본 영상.avi](train/videos/20241115_175106_gt.avi)</sub>
+        <sub>[원본 영상.avi](train/videos/20241115_175106_gt.avi)</sub>
 
 
 ### :small_orange_diamond:Nvidia Jetson Nano 학습 과정 (Nvidia Jetson Nano Training Process)
