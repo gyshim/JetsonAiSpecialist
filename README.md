@@ -34,4 +34,8 @@
 ## 영상 취득 방법 (Image Acquisition Method)
 
 **실제 환경 데이터 수집**: 다양한 건물 내부에서 소화기를 촬영하여 실제 데이터를 확보하였다.
-![실제 촬영한 영상](https://drive.google.com/file/d/1nUsehXYhixZ2AGBTiquP9eGcIrA7Fy1p/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1v8oKJJPCKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
