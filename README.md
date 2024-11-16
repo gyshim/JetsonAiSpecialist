@@ -93,8 +93,9 @@
       6-1. `as Images..`: 각 프레임의 [이미지](train/images) 저장 <sub>Save each frame as an [image](train/images)</sub><br>
       6-2. `GT Save As..`: 각 프레임의 [라벨 값](train/labels) 저장 <sub>Save the [label values](train/labels) for each frame(train/labels)</sub>
 
-     ![labelVideo](forReadMeFile/labelVideo.gif)<br>
-        <sub>[원본 영상<sub>original video</sub>](train/videos/20241115_175106_gt.avi)</sub>
+
+        <sub>[원본 영상 바로가기<sub>Go to original video</sub>](train/videos/20241115_175106_gt.avi)</sub><br>
+     ![labelVideo](forReadMeFile/labelVideo.gif)
 
 
 ### :small_orange_diamond:Nvidia Jetson Nano 학습 과정 (Nvidia Jetson Nano Training Process)
@@ -160,5 +161,6 @@
   - 비교적 어두운 곳과 밝은 곳, 정면과 측면 모두 정확히 감지하는 것을 알 수 있다.<br>
       <sub>It can be seen that detection is accurate in relatively dark and bright places, both front-facing and from the side.</sub>
 
-     ![resultVideo](forReadMeFile/resultVideo.gif)<br>
-     <sub>[원본 영상<sub>original video</sub>](runs/detect/exp6/20241115_112352.mp4)</sub>
+
+     <sub>[원본 영상 바로가기<sub>Go to original video</sub>](runs/detect/exp6/20241115_112352.mp4)</sub><br>
+     ![resultVideo](forReadMeFile/resultVideo.gif)
