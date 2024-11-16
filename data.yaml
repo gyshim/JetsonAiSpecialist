@@ -1,0 +1,5 @@
+names:  # Classes name
+- lane
+
+train: /content/drive/MyDrive/yolov5/Train/images  # train images 경로
+val: /content/drive/MyDrive/yolov5/Train/images # val images 경로
