@@ -88,7 +88,7 @@
 
   - 학습 결과는 `/content/drive/MyDrive/yolov5/runs/train`에 저장된다.
 
-  - 리포지토리 내에서는 [이 곳](runs/train)에서 확인할 수 있다.
+  - 리포지토리 내에서는 [여기](runs/train)에서 확인할 수 있다.
 
 | **F1 Curve** | **PR Curve** |
 |--------------|--------------|
