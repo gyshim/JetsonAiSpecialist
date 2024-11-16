@@ -59,7 +59,7 @@
 
 ### :small_orange_diamond:학습 데이터 추출과 학습 어노테이션 (Learning Data Extraction and Learning Annotation)
 
-  - 촬영된 영상을 프레임 단위 이미지로 만들거나 어노테이션을 하기 위해서 Video/Image Labeling and Annotation Tool로 잘 알려진 [DarkLabel](DarkLabel2.4)을 사용했다.<br>
+  - 촬영된 영상을 프레임 단위 이미지로 만들고 어노테이션을 하기 위해서 Video/Image Labeling and Annotation Tool로 잘 알려진 [DarkLabel](DarkLabel2.4)을 사용했다.<br>
       <sub>To create frame-by-frame images or annotate the captured video, [DarkLabel](DarkLabel2.4), well known as a Video/Image Labeling and Annotation Tool, was used.</sub>
 
   1. **[DarkLabel.exe](DarkLabel2.4/DarkLabel.exe) 설치한다.**<br>
