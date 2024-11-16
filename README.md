@@ -23,7 +23,7 @@
 ### :small_blue_diamond:직면하고 있는 한계 (Current Limitations)
 
   1. 다양한 환경에서 소화기를 탐지하는 데 있어 배경과 소화기의 색상, 형태가 유사한 경우 혼동이 발생할 수 있다.
-  2. 실시간 감지 속도와 모델의 정확성 간 밸런스 설정이 중요하다.
+  2. 실시간 감지 속도와 모델의 정확성 간 밸런스 설정이 필요하다.
 
 ### :small_blue_diamond:문헌 고찰 (Literature Review)
 
