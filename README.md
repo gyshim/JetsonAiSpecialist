@@ -48,6 +48,9 @@
 
 ## :memo:학습 과정 <sub>Learning Process</sub>
 
+<sub>[결과물 바로가기 <sub>Go to RESULT</sub>](runs/detect/jetsonVideo.mp4)</sub><br>
+
+
 ### :small_orange_diamond:영상 취득 방법 <sub>Image Acquisition Method</sub>
 
   - **실제 환경 데이터 수집**: 다양한 건물 내부에서 소화기를 촬영하여 실제 데이터를 확보하였다.<br>
