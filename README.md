@@ -166,3 +166,5 @@
 
      <sub>[원본 영상 바로가기 <sub>Go to original video</sub>](runs/detect/exp6/20241115_112352.mp4)</sub><br>
      ![resultVideo](forReadMeFile/resultVideo.gif)
+
+<sub>[결과물 바로가기 <sub>Go to RESULT</sub>](runs/detect/jetsonVideo.mp4)</sub><br>
