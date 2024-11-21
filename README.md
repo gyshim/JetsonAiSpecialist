@@ -53,6 +53,7 @@
   - **실제 환경 데이터 수집**: 다양한 건물 내부에서 소화기를 촬영하여 실제 데이터를 확보하였다.<br>
       <sub>**Real-world data collection**: Real-world data was obtained by filming fire extinguishers inside various buildings.</sub>
 
+        <sub>[원본 영상 바로가기 <sub>Go to original video</sub>](train/videos/20241115_175106.mp4)</sub><br>
      ![실제 촬영 영상](forReadMeFile/sourceVideo.gif)
 
 
